@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Local databases & file caches
+server/.data/
+server/public/uploads/*
+!server/public/uploads/.gitkeep
+
+# Production builds
+client/dist/
+
+# Environment configurations
+.env
+server/.env
+client/.env
+
+# OS Files
+.DS_Store
+Thumbs.db
