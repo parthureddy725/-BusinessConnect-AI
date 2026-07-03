@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Unlocking Business Scale with AI Automation",
+    "content": "In 2026, manual lead routing is a bottleneck. By integrating intelligent AI agents directly into your customer support channels, businesses can cut response delay times by 80% while retaining high-fidelity customer engagement.",
+    "category": "AI Solutions",
+    "author": "BusinessConnect AI Team",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=600",
+    "readTime": "4 min read",
+    "tags": [
+      "AI",
+      "Automation",
+      "Scalability"
+    ],
+    "_id": "fks3wn0mr4wz4am",
+    "createdAt": "2026-07-03T12:33:04.126Z",
+    "updatedAt": "2026-07-03T12:33:04.126Z"
+  },
+  {
+    "title": "Top 5 UX Design Principles for Customer Conversions",
+    "content": "A digital storefront should convert visits to engagements. Using modern glassmorphic card designs, clear hierarchy systems, and dynamic scrolling animations can keep viewers hooked and streamline checkout funnels.",
+    "category": "Branding",
+    "author": "UI/UX Design Lead",
+    "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?auto=format&fit=crop&q=80&w=600",
+    "readTime": "6 min read",
+    "tags": [
+      "Design",
+      "UI/UX",
+      "Conversions"
+    ],
+    "_id": "27djzwpmr4wz4an",
+    "createdAt": "2026-07-03T12:33:04.127Z",
+    "updatedAt": "2026-07-03T12:33:04.127Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "invoiceNumber": "INV-1092-231",
+    "clientEmail": "client@businessconnect.ai",
+    "projectTitle": "E-Commerce Platform Rebrand - Design Phase",
+    "amount": 1500,
+    "dueDate": "2026-06-15",
+    "status": "paid",
+    "downloadUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "_id": "q75u0otmr4wz4au",
+    "createdAt": "2026-07-03T12:33:04.134Z",
+    "updatedAt": "2026-07-03T12:33:04.134Z"
+  },
+  {
+    "invoiceNumber": "INV-1092-452",
+    "clientEmail": "client@businessconnect.ai",
+    "projectTitle": "E-Commerce Platform Rebrand - Development Phase",
+    "amount": 2500,
+    "dueDate": "2026-08-01",
+    "status": "unpaid",
+    "downloadUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "_id": "gt4c1t3mr4wz4aw",
+    "createdAt": "2026-07-03T12:33:04.136Z",
+    "updatedAt": "2026-07-03T12:33:04.136Z"
+  }
+]

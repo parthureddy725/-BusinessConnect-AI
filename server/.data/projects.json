@@ -1,0 +1,54 @@
+[
+  {
+    "name": "E-Commerce Platform Rebrand",
+    "clientEmail": "client@businessconnect.ai",
+    "description": "Rebuilding client storefront using React, Tailwind CSS, and a Node backend API with advanced stripe checkout elements.",
+    "stage": "Development",
+    "progress": 60,
+    "estimatedCompletion": "August 15, 2026",
+    "timeline": [
+      {
+        "stage": "Planning",
+        "date": "2026-06-01",
+        "completed": true
+      },
+      {
+        "stage": "Design",
+        "date": "2026-06-15",
+        "completed": true
+      },
+      {
+        "stage": "Development",
+        "date": "2026-07-01",
+        "completed": true
+      },
+      {
+        "stage": "Testing",
+        "date": "",
+        "completed": false
+      },
+      {
+        "stage": "Completed",
+        "date": "",
+        "completed": false
+      }
+    ],
+    "documents": [
+      {
+        "name": "UI Figma Wireframe PDF",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      },
+      {
+        "name": "Development Database Architecture diagram",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "invoices": [
+      "INV-1092-231",
+      "INV-1092-452"
+    ],
+    "_id": "et3r25omr4wz4as",
+    "createdAt": "2026-07-03T12:33:04.132Z",
+    "updatedAt": "2026-07-03T12:33:04.137Z"
+  }
+]

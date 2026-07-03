@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Admin Director",
+    "email": "admin@businessconnect.ai",
+    "password": "$2a$10$n38QKOfH18Xq0No0/CFGZ.XQQo3RR.oCBZfhm.ikOoTNLThFlX48K",
+    "role": "admin",
+    "profile": {
+      "company": "BusinessConnect AI",
+      "phone": "+1 (555) 019-2834",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&q=80&w=200"
+    },
+    "_id": "zauksxamr4wz4a5",
+    "createdAt": "2026-07-03T12:33:04.109Z",
+    "updatedAt": "2026-07-03T12:33:04.112Z"
+  },
+  {
+    "name": "John Doe",
+    "email": "client@businessconnect.ai",
+    "password": "$2a$10$n38QKOfH18Xq0No0/CFGZ.gFhA1jdIYpXXEKOgOcyrNH3XSkqbDY6",
+    "role": "client",
+    "profile": {
+      "company": "Acme Corporates",
+      "phone": "+1 (555) 045-8833",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+    },
+    "_id": "qlgytz5mr4wz4ab",
+    "createdAt": "2026-07-03T12:33:04.115Z",
+    "updatedAt": "2026-07-03T12:33:04.115Z"
+  }
+]
